@@ -1,0 +1,24 @@
+{
+  "name": "multiversus-api",
+  "version": "1.0.0-alpha",
+  "description": "A Simple MultiVersus Library ",
+  "main": "main.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacketDev/MultiVersus-API.git"
+  },
+  "keywords": [
+    "API",
+    "MultiVersus",
+    "MultiVersus-API"
+  ],
+  "author": "Packet",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PacketDev/MultiVersus-API/issues"
+  },
+  "homepage": "https://github.com/PacketDev/MultiVersus-API#readme"
+}
