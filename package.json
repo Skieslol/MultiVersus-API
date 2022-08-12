@@ -2,10 +2,7 @@
   "name": "multiversus-api",
   "version": "1.0.0-alpha",
   "description": "A Simple MultiVersus Library ",
-  "main": "main.js",
-  "scripts": {
-    "test": "null"
-  },
+  "main": "./src/main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PacketDev/MultiVersus-API.git"
@@ -20,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/PacketDev/MultiVersus-API/issues"
   },
-  "homepage": "https://github.com/PacketDev/MultiVersus-API#readme"
+  "homepage": "https://github.com/PacketDev/MultiVersus-API#readme",
+  "dependencies": {
+    "outline-logs": "^1.0.0",
+    "steam-user": "^4.24.6",
+    "undici": "^5.8.2"
+  }
 }
